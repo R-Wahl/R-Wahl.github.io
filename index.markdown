@@ -1,5 +1,5 @@
 ---
-layout: chapter
+layout: default
 ---
 This is my Resume File
 
